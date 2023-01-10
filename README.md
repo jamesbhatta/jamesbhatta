@@ -1,4 +1,4 @@
-### My name is James Bhatt and I am a full stack developer
+### My name is James Bhatta and I am a full stack developer
 
 Here are some ideas to get you started:
 
