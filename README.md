@@ -3,7 +3,7 @@
 A full-stack software developer from Nepal 🇳🇵 with 5+ years of experience building scalable web applications.  
 I specialize in **Laravel** for backend development and primarily use **React + Next.js** for frontend needs.  
 Shifted from Vue.js to React/Next.js, rewriting a major production app for performance and scalability.
-I’m also curious about **IoT**, experimenting with Arduino, sensors, and MQTT in my free time.
+I’m also curious about **IoT**, experimenting with Arduino, NodeMCU, ESP32, sensors, and MQTT in my free time.
 
 - 🔭 Currently working with **Laravel + Next.js** in production  
 - 🌱 Deepening my expertise in **React ecosystem** and exploring **IoT projects**  
